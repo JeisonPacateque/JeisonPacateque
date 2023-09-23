@@ -14,12 +14,18 @@ Previously, I worked on Backend Development mastering Python and frameworks like
 
 <br>
 
-- I’m currently learning:
+- :seedling: I’m currently learning:
   - [Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) at [Coursera](https://www.coursera.org/)
   - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke) at [Coursera](https://www.coursera.org/)
-- I’m looking to collaborate on data-driven applications
-- 📫 How to reach me:
+- :bar_chart: I’m looking to collaborate on data-driven applications
+- :page_with_curl: My [Resume](https://mega.nz/file/sk9BAJZJ#Lx5zbiJc3e6hFeK3K-L_fXdTGLnYOJVbX9ALGPGa3ZA)
+- :email: How to reach me:
   - jeison.pacateque@protonmail.com
   - jeison.pacateque@mailbox.org
-- ⚡ Fun facts:
-  - I use [logseq](https://github.com/logseq/logseq) to organize my life
+- :space_invader: Fun facts:
+  - I use [logseq](https://github.com/logseq/logseq) to organize my life.
+  - Ich spreche ein bisschen Deutsch.
+  - I enjoy literature and philosophy.
+  - I studied Creative Writing for a time. Here you can find some of my writings (in spanish):
+    - [Metafísica experimental - Parte I: Monólogos / Panólogos Lisérgicos](https://mega.nz/file/IlUk0JqK#C1aZtARau07iGnVVO-JJCY9RgxuLNv1m9WjvSyKJUXg)
+    - [Metafísica experimental - Parte II: la Palabra](https://mega.nz/file/8gVDnIDD#uIp7Uv-M4wve78pdm1z7bN4Bn7DDbFDx1jZd0wEWtas)
