@@ -18,9 +18,9 @@ Previously, I worked on Backend Development mastering Python and frameworks like
   - [Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) at [Coursera](https://www.coursera.org/)
   - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke) at [Coursera](https://www.coursera.org/)
 - :bar_chart: I’m looking to collaborate on data-driven applications
-- :page_with_curl: **Resume**
-  - [html version](https://jeisonpacateque.github.io/resume/)
-  - [pdf version](https://mega.nz/file/sk9BAJZJ#Lx5zbiJc3e6hFeK3K-L_fXdTGLnYOJVbX9ALGPGa3ZA)
+- :page_with_curl: **Resume**:
+  - <a href="https://jeisonpacateque.github.io/resume/" target="_blank">html version</a>
+  - <a href="https://mega.nz/file/sk9BAJZJ#Lx5zbiJc3e6hFeK3K-L_fXdTGLnYOJVbX9ALGPGa3ZA" target="_blank">pdf version</a>
 - :email: How to reach me:
   - jeison.pacateque@protonmail.com
   - jeison.pacateque@mailbox.org
